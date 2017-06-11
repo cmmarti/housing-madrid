@@ -1,6 +1,6 @@
 # housing-madrid
 
-Datos y código del trabajo "Técnicas de análisis geoespacial de datos aplicadas al mercado de la vivienda en la ciudad de Madrid"
+Datos del trabajo "Técnicas de análisis geoespacial de datos aplicadas al mercado de la vivienda en la ciudad de Madrid"
 
 Header | Definition
 ---|---------
