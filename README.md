@@ -11,18 +11,18 @@ Header | Definition
 `floor` | Piso
 `lat` | Latitud geográfica
 `lon` | Longitud geográfica
-`air\_conditioning` | Aire acondicionado incluido
+`air_conditioning` | Aire acondicionado incluido
 `wardrobes` | Armarios incluidos
 `lift` | Ascensor
 `exterior` | Piso exterior
 `garden` | Jardín
-`swimming\_pool` | Piscina
+`swimming_pool` | Piscina
 `terrace ` | Terraza
 `storeroom` | Trastero
 `garage` | Garaje
 `district` | Distrito
 `subdistrict` | Barrio
-`share\_loc` | El oferente comparte o no la ubicación de la vivienda
-`needs\_renovating` | Necesita reforma
-`good\_condition` | Buenas condiciones
-`new\_dev` | Obra nueva
+`share_loc` | El oferente comparte o no la ubicación de la vivienda
+`needs_renovating` | Necesita reforma
+`good_condition` | Buenas condiciones
+`new_dev` | Obra nueva
