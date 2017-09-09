@@ -1,6 +1,6 @@
 # housing-madrid
 
-Código empleado en el trabajo "Técnicas de análisis geoespacial de datos aplicadas al mercado de la vivienda en la ciudad de Madrid"
+Notebooks
 
 Enlace | Apartado
 ---|---------
